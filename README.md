@@ -1,3 +1,3 @@
 # RMoore35.github.io
 
-Treasure hunter game as part of a coding seminar weekend.
+Treasure hunter game built with a partner as part of a mini coding bootcamp.
